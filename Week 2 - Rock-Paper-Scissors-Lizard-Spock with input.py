@@ -10,7 +10,7 @@ from tkinter import *
 def name_to_number(name):
     if name.lower() == "rock":
         return 0
-    elif name.lower() == "Spock":
+    elif name.lower() == "spock":
         return 1
     elif name.lower() == "paper":
         return 2
