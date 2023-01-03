@@ -1,7 +1,7 @@
 # RPSLS with TKinter
 
 Game: Rock - Paper - Scissors - Lizard - Spock!<br>
-with graphics using Tkinter<br><br>
+With graphics using Tkinter<br><br>
 
 Instructions:<br>
 1. This game is similar to Rock Paper Scissors with the added options Spock and Lizard<br>
